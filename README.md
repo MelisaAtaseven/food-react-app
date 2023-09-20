@@ -1,3 +1,11 @@
+![Untitled design](https://user-images.githubusercontent.com/65420004/180659905-25df4a63-6f62-4a09-85a5-86803d7796b2.jpg)
+
+# Build A React JS Website Styled With Tailwind CSS
+ Bu mini projede React & Tailwin kullanarak hızlı bir şekilde küçük bir web sitesi oluşturdum. Bu yapıda belirli gıda türlerini ve fiyatlandırma kategorilerini filtrelemek için dizi filtresi yöntemi kullandım. [Projeyi incelemek için](https://food-react-app-rouge.vercel.app/).
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
